@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Science Student (5th semester) <br>🎀 Full Stack Developer in training at Driven course (completion in September 2025) <br>🚀 Always learning and exploring new technologies <br>⚡️ Technologies: HTML, CSS, JavaScript
+💻 Computer Science Student (5th semester) <br>✨ Full Stack Developer in training at Driven course (completion in September 2025) <br>🚀 Always learning and exploring new technologies <br>⚡️ Technologies: HTML, CSS, JavaScript
 
 
 ## 🌐 Socials:
