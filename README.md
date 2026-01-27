@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-💻 Computer Science Student (5th semester) <br>✨ Full Stack Developer <br>🚀 Always learning and exploring new technologies <br>⚡️ Technologies: HTML, CSS, JavaScript, React, TypeScript, Java, MongoDb, postgresSql
+💻 Computer Science Student (7th semester) <br>✨ Full Stack Developer <br>🚀 Always learning and exploring new technologies <br>⚡️ Technologies: HTML, CSS, JavaScript, React, TypeScript, Java, MongoDb, postgresSql
 
 
 ## 🌐 Socials:
