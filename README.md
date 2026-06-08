@@ -70,9 +70,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=carolfonsdev&show_icons=true&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=carolfonsdev&theme=dracula&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolfonsdev&layout=compact&theme=dracula&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carolfonsdev&layout=compact&theme=dracula&hide_border=true"/>
 
 </div>
 
@@ -80,7 +80,8 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=carolfonsdev&theme=dracula&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carolfonsdev&theme=dracula&hide_border=true"/>
+
 
 </div>
 
@@ -90,8 +91,6 @@
 
 ### 🌸 Thanks for visiting my profile 🌸
 
-<img src="https://komarev.com/ghpvc/?username=carolfonsdev&color=ff85c1&style=for-the-badge"/>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff85c1&height=120&section=footer"/>
+
